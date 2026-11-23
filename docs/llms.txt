@@ -126,3 +126,9 @@
 - [事業利益1800万円の法人成り損益分岐点・最適役員報酬](https://pecopeko.github.io/ai-tax-cost-atlas/jp-tax/houjin-nari-1800man.html): +¥1,727,397（最適報酬 366.0万円）
 - [事業利益1900万円の法人成り損益分岐点・最適役員報酬](https://pecopeko.github.io/ai-tax-cost-atlas/jp-tax/houjin-nari-1900man.html): +¥1,878,527（最適報酬 366.0万円）
 - [事業利益2000万円の法人成り損益分岐点・最適役員報酬](https://pecopeko.github.io/ai-tax-cost-atlas/jp-tax/houjin-nari-2000man.html): +¥2,029,657（最適報酬 366.0万円）
+## Companion Developer & B2B Compliance Tools (Crafted by peco)
+- [Stateless MCP 2026-07-28 & Enterprise MCP Firewall 10-Gate Auditor](https://pecopeko.github.io/mcp-firewall-v2-auditor/): Zero-network browser & CLI auditor for `/sse` deprecation, `Mcp-Method`/`Mcp-Name` headers, OAuth 2.1 PKCE/DPoP, and firewall JSON export.
+- [EU AI Act Art. 50 (2026-12-02) & Binary C2PA JUMBF Provenance Inspector](https://pecopeko.github.io/c2pa-ai-act50-auditor/): Client-side PNG `caBX`, JPEG-XT `APP11`, WebP `C2PA`, and MP4 `uuid` Content Credentials validator.
+- [Apify Store Pay-Per-Event APIs by peco](https://apify.com/pecopeko): Shopify Catalog JSON Extractor, Podcast RSS & Transcript Extractor, Substack Markdown Extractor, SEC EDGAR XBRL & Form D Extractor, ATS Jobs Extractor, Website Tech Stack & Sitemap Extractor, Stateless MCP v2 Firewall Auditor, EU AI Act Art. 50 C2PA Auditor, and Japan B2B PII Guard.
+- [Pythonで実装する日本株バックテスト監査 & ローカルAI機密保護 (Zenn Paid Book)](https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard)
+- [経理・バックオフィス自動化5点セット v2.0 (BOOTH Offline Pro Kit)](https://pecopeko1011.booth.pm/items/9179705)
